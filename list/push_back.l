@@ -5,6 +5,9 @@
        (setf ,lst (list ,el))
      (nconc ,lst (list ,el))))
 
+
+;; Example ------------------------
+
 (setq a (list 1))
 (print a)
 
