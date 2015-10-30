@@ -8,7 +8,7 @@ This repository also have useful codes to `grep` or copy-&-paste to your project
 Documentation
 -------------
 
-* [View Japanese Manual](https://wkentaro.github.io/awesome-eus/web/viewer.html)
+* [View Japanese Manual](https://wkentaro.github.io/awesome-eus/euslisp/doc/jlatex/jmanual.pdf)
 * [Download Japanese Manual](https://github.com/euslisp/EusLisp/raw/master/doc/jlatex/jmanual.pdf)
 
 
