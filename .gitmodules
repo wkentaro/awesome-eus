@@ -1,0 +1,3 @@
+[submodule "euslisp"]
+	path = euslisp
+  url = https://github.com/Euslisp/euslisp.git
