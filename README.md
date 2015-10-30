@@ -2,7 +2,7 @@ Awesome Eus ![](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed5
 ==============
 
 A curated list of awesome Euslisp documents, functions and macros.
-This repository also have useful codes to `grep`.
+This repository also have useful codes to `grep` or copy-&-paste to your project.
 
 
 Setup
